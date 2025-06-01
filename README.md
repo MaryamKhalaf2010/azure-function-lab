@@ -124,7 +124,7 @@ git push -u origin main
 
 ## 📽️ Demo Video
 
-\[Paste your YouTube demo link here]
+[\[YouTube demo link here]](https://youtu.be/Bg1PlePtvWg)
 
 ---
 
